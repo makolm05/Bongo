@@ -3,6 +3,7 @@
     <Project Path="Bongo.Core.Tests/Bongo.Core.Tests.csproj" Id="1ffcfb57-263b-442f-bd6b-65cfa29be54e" />
     <Project Path="Bongo.DataAccess.Tests/Bongo.DataAccess.Tests.csproj" Id="bf1462ce-aedc-40e1-8dca-b39f48b91b7a" />
     <Project Path="Bongo.Models.Tests/Bongo.Models.Tests.csproj" Id="0a4ebb70-12a9-4c03-baba-7721c799c12d" />
+    <Project Path="Bongo.Web.Tests/Bongo.Web.Tests.csproj" Id="6f20dad5-3412-4038-a745-ddcf423e3101" />
   </Folder>
   <Project Path="Bongo.Core/Bongo.Core.csproj" />
   <Project Path="Bongo.DataAccess/Bongo.DataAccess.csproj" />

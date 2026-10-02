@@ -21,6 +21,5 @@ namespace Bongo.Web.Controllers
         {
             return View();
         }
-
     }
 }
